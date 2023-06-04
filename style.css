@@ -274,7 +274,7 @@ img{
 }
 
 /* Media Query for Mobile */
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 800px){
     .nav-list ul{
         display: none;
     }
